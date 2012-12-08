@@ -1,5 +1,5 @@
 module Main where
 
-import Parser
+import SFParser
 
 main = putStrLn "hello"

@@ -574,5 +574,3 @@ class Interpreter m where
   interpret :: m -> Instruction -> Either Error m 
 
 
-
-
